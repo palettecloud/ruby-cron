@@ -1,4 +1,4 @@
-FROM quay.io/palettecloud/ruby-node:v3.0.3-12.13.0
+FROM palettecloud/ruby-node:v3.0.3-12.13.0-fix
 LABEL maintainer "shinya nakajima <zima@palette.cloud>"
 
 RUN apt-get update
