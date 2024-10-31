@@ -1,4 +1,4 @@
-FROM palettecloud/ruby-node:v2.7.6-12.13.0
+FROM palettecloud/ruby-node:v3.1.6-12.13.0
 LABEL maintainer "hiroyuki nikaido <nikadon@palette.cloud>"
 
 RUN apt-get update
